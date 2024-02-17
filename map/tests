@@ -1,0 +1,5 @@
+./my_bsq map/1000x1000
+./my_bsq map/500x500
+./my_bsq map/100x100
+./my_bsq map/10x10  
+./my_bsq map/wrongmap
